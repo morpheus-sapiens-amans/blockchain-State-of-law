@@ -4,7 +4,8 @@
 # Production
 /build
 
-
+#workspace vscode
+blockchain-state.code-workspace
 
 # Generated files
 .docusaurus
