@@ -1,6 +1,6 @@
 module.exports = {
-  title: 'My Site',
-  tagline: 'The tagline of my site',
+  title: 'Assinar contratos online',
+  tagline: 'Da mesma forma que o Direito mudou a natureza do Estado de divino para jurídico, as Blockchain também mudarão a natureza do Estado de jurídico para juris-digital',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
@@ -8,9 +8,9 @@ module.exports = {
   projectName: 'docusaurus', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'HandShake',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'HandShake logo',
         src: 'img/logo.svg',
       },
       links: [
