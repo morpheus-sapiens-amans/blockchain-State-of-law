@@ -2,10 +2,10 @@ module.exports = {
   title: 'Assinar contratos online',
   tagline: 'Da mesma forma que o Direito mudou a natureza do Estado de divino para jurídico, as Blockchain também mudarão a natureza do Estado de jurídico para juris-digital',
   url: 'https://morpheus-sapiens-amans.github.io',
-  baseUrl: '/the-blockchain-State-of-law/',
+  baseUrl: '/blockchain-State-of-law/',
   favicon: 'img/favicon.ico',
   organizationName: 'morpheus-sapiens-amans', // Usually your GitHub org/user name.
-  projectName: 'the-blockchain-State-of-law', // Usually your repo name.
+  projectName: 'blockchain-State-of-law', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'HandShake',
