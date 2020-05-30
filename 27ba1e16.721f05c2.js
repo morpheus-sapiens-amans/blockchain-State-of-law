@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{141:function(a){a.exports=JSON.parse('{"allTagsPath":"/blockchain-State-of-law/blog/tags","slug":"hello","name":"hello","count":1,"permalink":"/blockchain-State-of-law/blog/tags/hello"}')}}]);
